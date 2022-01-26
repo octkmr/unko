@@ -1,0 +1,15 @@
+{
+    "name": "octkmr/unko",
+    "authors": [
+        {
+            "name": "octkmr",
+            "email": "octkmr@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Unko\\": "src/"
+        }
+    },
+    "require": {}
+}
